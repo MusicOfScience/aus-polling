@@ -1,0 +1,3 @@
+poll_id,clean_poll_id,pollster,mode,fieldwork_start_date,fieldwork_end_date,sample_size,region,question_type,methodology_notes,sponsor,source_link
+1,1001,Resolve Strategic,Online,2025-01-12,2025-01-15,1602,AUS,Primary vote,Weighted by age and gender,Nine Entertainment,https://example.com/polls/resolve-2025-01
+2,1002,Newspoll,Mixed mode,2025-01-18,2025-01-20,1250,AUS,Two-party preferred,Includes undecided allocation,The Australian,https://example.com/polls/newspoll-2025-01
